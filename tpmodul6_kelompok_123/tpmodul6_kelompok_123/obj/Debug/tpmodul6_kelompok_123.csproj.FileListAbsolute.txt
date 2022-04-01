@@ -1,0 +1,11 @@
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\bin\Debug\tpmodul6_kelompok_123.exe.config
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\bin\Debug\tpmodul6_kelompok_123.exe
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\bin\Debug\tpmodul6_kelompok_123.pdb
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.csproj.AssemblyReference.cache
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.csproj.CoreCompileInputs.cache
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.csproj.CopyComplete
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.exe
+C:\Users\Panji\Documents\VS Community things\timResty\TP_KPL6\tpmodul6_kelompok_123\tpmodul6_kelompok_123\obj\Debug\tpmodul6_kelompok_123.pdb
